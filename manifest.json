@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Towa - 漢字検索拡張",
-    "version": "1.0",
+    "version": "1.0.0",
     "description": "漢字のみの検索ワードに「とは」を自動的に追加します",
     "permissions": [
       "webRequest",

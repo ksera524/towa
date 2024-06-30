@@ -1,6 +1,3 @@
-# ビルド出力
-/dist
-
 # 依存関係
 /node_modules
 
